@@ -59,7 +59,7 @@ header {
   align-items: center;
   height: 100%;
   padding: 25px;
-  background-color: #1d1d1b;
+  background-color: black;
 }
 
 header .promo {
@@ -411,7 +411,7 @@ section:not(#about) {
 
 @media screen and (min-width: 1280px) {
   .about__info {
-    border-top: 30px solid #1d1d1b;
+    border-top: 30px solid black;
   }
 
   .about__info-title {
@@ -425,7 +425,8 @@ section:not(#about) {
 
 @media screen and (min-width: 1440px) {
   .about__info {
-    border-top: 30px solid #1d1d1b;
+    border-top: 30px solid 
+        black;
   }
 
   .about__info-title {
