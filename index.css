@@ -99,7 +99,7 @@ section:not(#about) {
   justify-content: flex-end;
   width: 100%;
   padding: 16px;
-  background-color: #1d1d1b;
+  background-color: #000000;
   z-index: 9999;
 }
 
@@ -784,9 +784,7 @@ section:not(#about) {
 }
 
 /* ??? */
-.socials__item-icon--tv {
-  background-image: url("img/tv.svg");
-}
+
 
 .socials__item-icon--instagram {
   background-image: url("img/instagram.svg");
