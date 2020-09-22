@@ -362,7 +362,7 @@ section:not(#about) {
 .about__info-text {
   line-height: 1.5;
   letter-spacing: normal;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 700;
   color: #fff;
 }
@@ -401,7 +401,7 @@ section:not(#about) {
   }
 
   .about__info-title {
-    font-size: 28px;
+    font-size: 50px;
   }
 
   .about__info-text {
