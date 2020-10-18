@@ -362,7 +362,7 @@ section:not(#about) {
 .about__info-text {
   line-height: 1;
   letter-spacing: normal;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 700;
   color: #fff;
 }
@@ -376,7 +376,7 @@ section:not(#about) {
   }
 
   .about__info {
-    border-top: 20px solid #1d1d1b;
+    border-top: 20px solid #000000;
     padding: 50px;
   }
 
@@ -397,7 +397,7 @@ section:not(#about) {
 
 @media screen and (min-width: 992px) {
   .about__info {
-    border-top: 30px solid #1d1d1b;
+    border-top: 30px solid #000000;
   }
 
   .about__info-title {
@@ -405,7 +405,7 @@ section:not(#about) {
   }
 
   .about__info-text {
-    font-size: 21px;
+    font-size: 25px;
   }
 }
 
