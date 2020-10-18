@@ -360,7 +360,7 @@ section:not(#about) {
 }
 
 .about__info-text {
-  line-height: 1.5;
+  line-height: 1;
   letter-spacing: normal;
   font-size: 17px;
   font-weight: 700;
