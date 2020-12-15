@@ -69,7 +69,7 @@ header .promo {
 header .promo h1 {
   margin: 0;
   font-size: 52px;
-  color: #ed6e1d;
+  color: gainsboro;
   -webkit-animation: fadeInUp 1200ms both;
   animation: fadeInUp 1200ms both;
 }
@@ -131,7 +131,7 @@ section:not(#about) {
   position: absolute;
   height: 0.2em;
   width: 100%;
-  background-color: #ed6e1d;
+  background-color: gainsboro;
   border-radius: 10%;
   opacity: 1;
   left: 0;
@@ -267,12 +267,12 @@ section:not(#about) {
 .navbar__list-item a {
   text-decoration: none;
   font-size: 21px;
-  color: #ed6e1d;
+  color: gainsboro;
   position: relative;
 }
 
 .navbar__list-item a.active {
-  color: #ed6e1d;
+  color: gainsboro;
 }
 
 .navbar__list-item a.active:before {
@@ -288,7 +288,7 @@ section:not(#about) {
   left: 0;
   width: 100%;
   height: 2px;
-  background-color: #ed6e1d;
+  background-color: gainsboro;
   content: "";
   -webkit-transform: translateY(8px);
   -ms-transform: translateY(8px);
@@ -307,7 +307,7 @@ section:not(#about) {
 }
 
 .navbar__list-item a:hover {
-  color: #ed6e1d;
+  color:gainsboro;
 }
 
 .navbar__list-item a:hover:before {
@@ -356,13 +356,13 @@ section:not(#about) {
   margin-bottom: 10px;
   font-size: 50px;
   text-transform: uppercase;
-  color: #ed6e1d;
+  color: gray;
 }
 
 .about__info-text {
   line-height: 1;
   letter-spacing: normal;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 700;
   color: #fff;
 }
